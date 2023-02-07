@@ -1,2 +1,2 @@
-# modelacion_bayesiana
-Repositorio para notas sobre modelación bayesiana
+# Modelacion bayesiana
+Repositorio para notas sobre modelos bayesianos
